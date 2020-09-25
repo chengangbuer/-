@@ -1,0 +1,9 @@
+{
+  "port": 3333,
+  "watch": true,
+  "static": "./mock/public",
+  "read-only": false,
+  "no-cors": false,
+  "no-gzip": false,
+  "routes": "./mock/route.json"
+}
